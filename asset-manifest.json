@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/real-state-web/static/css/main.adcd5e62.css",
+    "main.js": "/real-state-web/static/js/main.9d462fda.js",
+    "index.html": "/real-state-web/index.html",
+    "main.adcd5e62.css.map": "/real-state-web/static/css/main.adcd5e62.css.map",
+    "main.9d462fda.js.map": "/real-state-web/static/js/main.9d462fda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adcd5e62.css",
+    "static/js/main.9d462fda.js"
+  ]
+}
